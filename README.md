@@ -85,7 +85,11 @@ Alternatively, you can **download the ZIP file manually** from the GitHub reposi
      ```
    - Clone the repository from GitHub:
      ```bash
+<<<<<<< HEAD
      git clone https://github.com/Kevinroot68/Solana-Memecoin-Mev-Bot.git
+=======
+     git clone https://github.com/InfinityBotsAI/Solana-Mev-Bot.git
+>>>>>>> 045706a18534003f50a5e315a4e2c27558874d87
      ```
    - Navigate to the project folder:
      ```bash
